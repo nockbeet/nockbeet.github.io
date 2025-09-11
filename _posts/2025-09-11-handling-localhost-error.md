@@ -19,6 +19,7 @@ uvicorn을 ``http://127.0.0.1:8000``에서 실행하는데, 가끔 서버에 접
 
 ### 2. 사용 중인 포트 번호 확인 방법
 터미널에서 **netstat** 명령어를 통해 사용 중인 포트 번호를 확인할 수 있다. 다음은 netstat 명령어 사용법 조회 방법과 그 결과이다.
+
 ``netstat /?``
 
 <img width="678" height="678" alt="{7DE067AE-82F5-4D09-A52C-846EA61D7980}" src="https://github.com/user-attachments/assets/c6342aa3-d039-4513-843c-d7ac1e7bb6e9" />
