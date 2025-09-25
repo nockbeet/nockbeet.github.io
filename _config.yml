@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "nockbeet 개발일지"
-tab_title                : "tab"
+tab_title                : "nockbeet 개발일지"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -118,7 +118,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "백엔드 개발 공부중"
   location         : "Korea"
-  email            :
+  email            : "skcheon2001@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
