@@ -35,4 +35,4 @@ FastAPI를 이용한 기능 구현에는 문제가 없었으나, 제공받은 Ch
 프로젝트 구상부터 설계, 기능 구현, 웹 디자인, 테스트까지 오롯이 혼자서 진행한 프로젝트다 보니 각 절차마다 아쉬운 것들이 기억에 남는다. 아쉬웠던 점들은 잘 기억해서 다음 프로젝트 때 차근차근 보완해갈 생각이다.<br>
 프로젝트 레포지토리 링크를 남기며 글을 마무리하겠다. <br><br>
 
-[https://github.com/nockbeet/modu_first_project]
+[https://github.com/nockbeet/modu_first_project](https://github.com/nockbeet/modu_first_project)
